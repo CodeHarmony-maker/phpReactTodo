@@ -1,0 +1,24 @@
+.home {
+	color: black;
+	margin: 20px;
+
+	.top_btn {
+		width: 200px;
+		margin: 4px;
+	}
+
+	.data_list {
+		margin: 20px;
+		.input_check {
+			margin-right: 10px;
+		}
+	}
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 90vh;
+}
